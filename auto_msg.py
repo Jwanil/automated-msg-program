@@ -13,6 +13,6 @@ random.shuffle(string_array)
 for i in range(4):
     #sends the shuffled string once
     for j in string_array:
-        pywhatkit.sendwhatmsg_instantly("+919925228832", j, 15, True, 4)
+        pywhatkit.sendwhatmsg_instantly("+919999999999", j, 15, True, 4)
 
 
